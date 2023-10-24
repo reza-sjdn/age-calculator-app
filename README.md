@@ -40,9 +40,11 @@ Users should be able to:
 ### Screenshot
 
 - Desktop View
+
 ![](./desktop-screenshot.jpg)
 
 - Mobile View
+
 ![](./mobile-screenshot.jpg)
 
 ### Links
